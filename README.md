@@ -3,7 +3,7 @@
  <img
       align="right"
       width="400"
-      href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif&tbnid=Aob19zh3U0GdRM&vet=12ahUKEwiSlMrkzMODAxWna2wGHSuGBIQQMygDegQIARBc..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&w=680&h=428&q=animated%20coding%20gif%20for%20github&ved=2ahUKEwiSlMrkzMODAxWna2wGHSuGBIQQMygDegQIARBc"
+      href="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif&tbnid=Aob19zh3U0GdRM&vet=12ahUKEwiSlMrkzMODAxWna2wGHSuGBIQQMygDegQIARBc..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&w=680&h=428&q=animated%20coding%20gif%20for%20github&ved=2ahUKEwiSlMrkzMODAxWna2wGHSuGBIQQMygDegQIARBc](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif&tbnid=Aob19zh3U0GdRM&vet=12ahUKEwiSlMrkzMODAxWna2wGHSuGBIQQMygDegQIARBc..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&w=680&h=428&q=animated%20coding%20gif%20for%20github&ved=2ahUKEwiSlMrkzMODAxWna2wGHSuGBIQQMygDegQIARBc)"
       alt="Coding"
     />
 - 📫 How to reach me *sanketnivate2k18@gmail.com*
