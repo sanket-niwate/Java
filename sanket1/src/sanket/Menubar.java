@@ -29,6 +29,7 @@ JMenuItem item1,item2,item3,item4,item5,item6,item7,item8,item9;
 			public void actionPerformed(ActionEvent e) {
 				// TODO Auto-generated method stub
 				new Add();
+				dispose();
 			}
 		});
 		item2=new JMenuItem("Update");
@@ -38,6 +39,7 @@ JMenuItem item1,item2,item3,item4,item5,item6,item7,item8,item9;
 			public void actionPerformed(ActionEvent e) {
 				// TODO Auto-generated method stub
 				new Update();
+				dispose();
 				
 			}
 		});
@@ -48,6 +50,7 @@ JMenuItem item1,item2,item3,item4,item5,item6,item7,item8,item9;
 			public void actionPerformed(ActionEvent e) {
 				// TODO Auto-generated method stub
 				new Delete();
+				dispose();
 			}
 		});
 		item4=new JMenuItem("Show Employee");
@@ -57,13 +60,47 @@ JMenuItem item1,item2,item3,item4,item5,item6,item7,item8,item9;
 			public void actionPerformed(ActionEvent e) {
 				// TODO Auto-generated method stub
 				new Showemployee();
+				dispose();
 			}
 		});
 		item5=new JMenuItem("Search Employee");
+		item5.addActionListener(new ActionListener() {
+			
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				// TODO Auto-generated method stub
+				new Search();
+				dispose();
+			}
+		});
 		item6=new JMenuItem("Show Employee Salary");
+		item6.addActionListener(new ActionListener() {
+			
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				// TODO Auto-generated method stub
+				new Salary();
+			}
+		});
 		item7=new JMenuItem("Help");
+		item7.addActionListener(new ActionListener() {
+			
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				// TODO Auto-generated method stub
+			new Help();	
+			}
+		});
 		item8=new JMenuItem("Thoght of the day");
 		item9=new JMenuItem("Exit");
+		item9.addActionListener(new ActionListener() {
+			
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				// TODO Auto-generated method stub
+				dispose();
+			}
+		});
 		
 		
 
